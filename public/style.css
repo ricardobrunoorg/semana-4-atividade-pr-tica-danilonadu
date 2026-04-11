@@ -106,3 +106,8 @@ body {
     background-color: #111;
     border: 1px solid #444;
 }
+.logo {
+    width: 400px;
+    display: block;
+    margin: 0 auto;
+}
